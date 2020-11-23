@@ -1,0 +1,3 @@
+.vs/
+PictureViewer.Data/bin
+PictureViewer.Data/obj
